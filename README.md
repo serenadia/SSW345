@@ -1,2 +1,8 @@
 # Homework 1
-Hello GitHub!
+
+Homework 1 Part 1 Tasks:
+
+  *  Introduction Sequence
+  *  Ramping Up
+  *  Moving Work Around
+  *  A Mixed Bag
